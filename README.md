@@ -1,6 +1,6 @@
 # Med.Voll API 🏥
 
-API REST para gerenciamento de uma clínica médica, desenvolvida durante os estudos na Alura. A aplicação permite o cadastro de médicos e pacientes, além do agendamento de consultas.
+API REST para gerenciamento de uma clínica médica, desenvolvida durante os estudos na Alura. A aplicação permite um CRUD completo de pacientes e médicos.
 
 ## 🛠 Tecnologias Utilizadas
 * **Java 17**
