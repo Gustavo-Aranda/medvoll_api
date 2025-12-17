@@ -32,6 +32,7 @@ spring.datasource.url=jdbc:mysql://localhost:3306/vollmed_api
 spring.datasource.username=seu_usuario
 spring.datasource.password=sua_senha 
 ```
+**obs: lembre-se de remover '_example' do nome do arquivo.**
 ## 🏃 Execução
 
 No terminal, na raiz do projeto, execute:
